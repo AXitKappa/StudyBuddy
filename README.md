@@ -1,0 +1,2 @@
+# StudyBuddy
+Lernplaner mit Pushbenachrichtung
